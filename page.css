@@ -1,0 +1,113 @@
+.header{
+	display:grid;
+	grid-template-columns: 1.5fr 5fr;
+	background-color:#063840;
+	color: white;
+	
+}
+.image{
+	height: 150px;
+	width: 150px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	border-radius: 5px;
+}
+h3{
+	margin-top: 25px;
+	letter-spacing: 0.1em;
+	font-weight: bold;
+	font-family:serif;
+}
+h5{
+	font-family:serif;
+	letter-spacing: 0.1em;
+}
+.underline{
+	width: 400px;
+	height: 4px;
+	margin-top: 13px;
+	background-color: white;
+}
+.Edu{
+	color:black;
+	margin-top: 7px;
+	padding-left: 20px;
+	padding-top: 4px;
+
+	
+}
+#wrapper{
+	padding: 0px;
+}
+body{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.under{
+	width: 300px;
+	height: 3px;
+	margin-left: 20px;
+	background-color: #063840;
+
+}
+span {
+    position: absolute;
+    left: -0.142857em;
+    width: 2.14285714em;
+    top: .14285714em;
+    text-align: center;
+}
+
+.pl-4, .px-4 {
+    padding-left: 2.2rem!important;
+    font-size: 18px;
+}
+ul{
+	padding-left: 1.8em;
+}
+.edification{
+	display:grid;
+	grid-template-columns: 2.5fr 5fr;
+	padding-left: 20px;
+}
+.info{
+    background-color: #b0cbd0;
+}
+
+.col-md-4 {
+    max-width: 30.833334%;
+    margin-top: 10px;
+}
+.under1{
+	height: 2.5px;
+	margin-left: 20px;
+	background-color: #063840;
+	margin-bottom: 10px;
+
+}
+.contact{
+	color:black;
+	padding-left: 20px;
+	padding-top: 7px;
+	margin-top:-14px;
+}
+.contact1{
+	color:black;
+	padding-left: 20px;
+	padding-top: 7px;
+	margin-top:12px;
+}
+ul {
+    padding-left: 2.3em;
+}
+.skills{
+	padding-left: 20px;
+	margin-top: 15px;
+}
+
+.fa-star:before {
+    content: "\f005";
+    font-size: 15px;
+}
